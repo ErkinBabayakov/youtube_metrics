@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 import sys
 from pathlib import Path
 
